@@ -6,7 +6,7 @@ The airway db. Has also keeps track of person. Person has two sub-groups called 
 There are also airports and schedules held in database. Airport has city and airport code. Schedules has two different sub groups called airplane Schedule and airport Schedule. Every airport has a airport Schedule based on that airway. Every airport has one airport Schedule and every plane has one airplane Schedule. <br> 
 
 <hr>
-# How To Run Airway Management System  <br> 
+How To Run Airway Management System  <br> 
 
 -	Below link download Java.  <br> 
 https://www.java.com/tr/download/  <br> 
